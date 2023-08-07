@@ -1,0 +1,2 @@
+# -Modeling-and-Simulation-of-a-Two-Tanks-Hydraulic-System
+This project is done to apply the knowledge learned from the Modeling and Simulation of Dynamic Systems class such that it includes a mathematical analysis of a hydraulic system. The analysis focused on modeling a differential equations representation of the system, state-space representation of the system, checking the external and internal stability of the system, checking controllability and observability of the system and running some simulation of the system using MATLAB.
